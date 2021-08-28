@@ -1,0 +1,13 @@
+{
+  "name": "animation-list",
+  "version": "1.0.0",
+  "main": "index.html",
+  "auther": "auther name",
+  "scripts": {
+    "build": "sass src/resources/sass/index.scss src/resources/css/index.css",
+    "watch": "sass --watch src/resources/sass/index.scss src/resources/css/index.css"
+  },
+  "devDependencies": {
+    "sass": "^1.35.2"
+  }
+}
